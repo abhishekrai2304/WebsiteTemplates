@@ -1,6 +1,6 @@
 # Website Component Templates. 
 
-* This repo is dedicated to all the templates we regularly use while developing websites/webapps.
+* This repo is dedicated to all the templates we are regularly use while developing websites/webapps.
 
 
 ## Instructions For submitting your templates
